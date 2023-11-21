@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_EEGScene/Sm_main.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

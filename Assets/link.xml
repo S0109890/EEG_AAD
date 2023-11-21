@@ -1,0 +1,11 @@
+<linker>
+  <assembly fullname="Accord">
+    <type fullname="Accord.*" preserve="all" />
+  </assembly>
+  <assembly fullname="Accord.Audio">
+    <type fullname="Accord.Audio.*" preserve="all" />
+  </assembly>
+  <assembly fullname="Accord.Math">
+    <type fullname="Accord.Math.*" preserve="all" />
+  </assembly>
+</linker>
